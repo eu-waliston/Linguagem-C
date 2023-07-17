@@ -26,7 +26,7 @@ O que iremos ver ao decorrer dos capitulos, no total serão 8:
 
 ### :bangbang: Obs: 
 
-Todo o contéudo proposto, tem como base o livro de Brian W. Kernighan e Dennis M. Ritchie "The C Programming Language"
+Todo o contéudo proposto tem como base o livro de Brian W. Kernighan e Dennis M. Ritchie "The C Programming Language"
 
 Disponivél na amazon pelo link: 
 
