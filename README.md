@@ -23,3 +23,11 @@ O que iremos ver ao decorrer dos capitulos, no total serão 8:
 
 ## :computer: Commits:
 - Seg a Sex partir das 18:00 :fire:
+
+Todo os contéudos, tem como base o livro do Brian W. Kernighan e Dennis M. Ritchie "The C Programming Language"
+
+Disponivél na amazon pelo link: 
+
+https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
+
+Apoie os autores comprando o livro caso você tenha condições para isso. Bons Estudos :bangbang:
