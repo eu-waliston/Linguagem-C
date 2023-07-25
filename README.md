@@ -5,31 +5,26 @@ Eu sou We Santos, e neste repositório estarei compartilhando meus estudos refer
 
 ## :fire: Cronograma:
 
-O que iremos ver ao decorrer dos capitulos, no total serão 8:
-
-- Capitulo 1 :arrow_right: Tutorial básico                         
-- Capitulo 2 :arrow_right: Tipos operadores e expressões          
-- Capitulo 3 :arrow_right: Estruturas de controle                  
-- Capitulo 4 :arrow_right: Funcções                                
-- Capitulo 5 :arrow_right: Ponteiros e Arrays                      
-- Capitulo 6 :arrow_right: Estruturas                             
-- Capitulo 7 :arrow_right: Entrada e Saida                        
-- Capitulo 8 :arrow_right: A Interface do Sistema UNIX            
-
+- Capítulo 01 – :arrow_right: Conceitos da Computação
+- Capítulo 02 – :arrow_right: Introdução à programação em C
+- Capítulo 03 – :arrow_right: Desenvolvimento da Programação Estruturada
+- Capítulo 04 – :arrow_right: Controle do programa
+- Capítulo 05 – :arrow_right: Funções
+- Capítulo 06 – :arrow_right: Arrays
+- Capítulo 07 – :arrow_right: Ponteiros
+- Capítulo 08 – :arrow_right: Caracteres e strings
+- Capítulo 09 – :arrow_right: Formatação de Entrada/Saída
+- Capítulo 10 – :arrow_right: Estruturas, Uniões, Manipulações de Bits e Enumerações
+- Capítulo 11 – :arrow_right: Processamento de arquivos
+- Capítulo 12 – :arrow_right: Estrutura de dados
+- Capítulo 13 – :arrow_right: O pré-processador
+       
 ## :fire: Extra: 
 
-- Appendix A :arrow_right: Referencias
-- Appendix B :arrow_right: Bibliotecas
+- Apêndice A – :arrow_right: Biblioteca-padrão
+- Apêndice B – :arrow_right: Precedência de Operadores e Associatividade
+- Apêndice C – :arrow_right: Conjunto de Caracteres ASCII
+- Apêndice D – :arrow_right: Sistemas de numeração  
 
 ## :computer: Commits:
 - Seg a Sex partir das 18:00 :fire:
-
-### :bangbang: Obs: 
-
-Todo o contéudo proposto tem como base o livro de Brian W. Kernighan e Dennis M. Ritchie "The C Programming Language"
-
-Disponivél na amazon pelo link: 
-
-https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628
-
-Apoie os autores comprando o livro caso você tenha condições para isso. Bons Estudos :handshake:
